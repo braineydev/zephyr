@@ -1,0 +1,2036 @@
+{
+  "date": "2026-11-23T12:19:28.406Z",
+  "browser": "Google Chrome headless with Chrome DevTools Protocol; system-installed Chrome",
+  "url": "http://127.0.0.1:3001",
+  "viewports": [
+    360,
+    390,
+    414,
+    576,
+    768,
+    1024,
+    1280,
+    1440
+  ],
+  "results": [
+    {
+      "width": 360,
+      "viewport": 360,
+      "documentClientWidth": 360,
+      "documentScrollWidth": 360,
+      "bodyScrollWidth": 360,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 118,
+          "headingTop": 641,
+          "headerBottom": 68
+        },
+        {
+          "id": "intro",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "features",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "reception",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 184,
+          "headingTop": 322,
+          "headerBottom": 68
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "location",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 184,
+          "headingTop": 326,
+          "headerBottom": 68
+        },
+        {
+          "id": "team",
+          "sectionTop": 184,
+          "headingTop": 364,
+          "headerBottom": 68
+        },
+        {
+          "id": "contact",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 3,
+      "amenityRows": 5,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 360
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "viewport": 390,
+      "documentClientWidth": 390,
+      "documentScrollWidth": 390,
+      "bodyScrollWidth": 390,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 118,
+          "headingTop": 637,
+          "headerBottom": 68
+        },
+        {
+          "id": "intro",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "features",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "reception",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 184,
+          "headingTop": 322,
+          "headerBottom": 68
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "location",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "team",
+          "sectionTop": 184,
+          "headingTop": 345,
+          "headerBottom": 68
+        },
+        {
+          "id": "contact",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 3,
+      "amenityRows": 5,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 390
+        }
+      ]
+    },
+    {
+      "width": 414,
+      "viewport": 414,
+      "documentClientWidth": 414,
+      "documentScrollWidth": 414,
+      "bodyScrollWidth": 414,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 118,
+          "headingTop": 633,
+          "headerBottom": 68
+        },
+        {
+          "id": "intro",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "features",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "reception",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 184,
+          "headingTop": 322,
+          "headerBottom": 68
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "location",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "team",
+          "sectionTop": 184,
+          "headingTop": 345,
+          "headerBottom": 68
+        },
+        {
+          "id": "contact",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 3,
+      "amenityRows": 5,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 414
+        }
+      ]
+    },
+    {
+      "width": 576,
+      "viewport": 576,
+      "documentClientWidth": 576,
+      "documentScrollWidth": 576,
+      "bodyScrollWidth": 576,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 104,
+          "headingTop": 636,
+          "headerBottom": 68
+        },
+        {
+          "id": "intro",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "features",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "reception",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 184,
+          "headingTop": 322,
+          "headerBottom": 68
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "location",
+          "sectionTop": 184,
+          "headingTop": 306,
+          "headerBottom": 68
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        },
+        {
+          "id": "team",
+          "sectionTop": 184,
+          "headingTop": 326,
+          "headerBottom": 68
+        },
+        {
+          "id": "contact",
+          "sectionTop": 184,
+          "headingTop": 307,
+          "headerBottom": 68
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 3,
+      "amenityRows": 5,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 576
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "viewport": 768,
+      "documentClientWidth": 753,
+      "documentScrollWidth": 753,
+      "bodyScrollWidth": 753,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 117,
+          "headingTop": 565,
+          "headerBottom": 80
+        },
+        {
+          "id": "intro",
+          "sectionTop": 208,
+          "headingTop": 358,
+          "headerBottom": 80
+        },
+        {
+          "id": "features",
+          "sectionTop": 208,
+          "headingTop": 401,
+          "headerBottom": 80
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 208,
+          "headingTop": 363,
+          "headerBottom": 80
+        },
+        {
+          "id": "reception",
+          "sectionTop": 208,
+          "headingTop": 373,
+          "headerBottom": 80
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 208,
+          "headingTop": 373,
+          "headerBottom": 80
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 208,
+          "headingTop": 340,
+          "headerBottom": 80
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 208,
+          "headingTop": 355,
+          "headerBottom": 80
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 208,
+          "headingTop": 363,
+          "headerBottom": 80
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 208,
+          "headingTop": 341,
+          "headerBottom": 80
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 208,
+          "headingTop": 340,
+          "headerBottom": 80
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 208,
+          "headingTop": 339,
+          "headerBottom": 80
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 208,
+          "headingTop": 340,
+          "headerBottom": 80
+        },
+        {
+          "id": "location",
+          "sectionTop": 208,
+          "headingTop": 364,
+          "headerBottom": 80
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 208,
+          "headingTop": 359,
+          "headerBottom": 80
+        },
+        {
+          "id": "team",
+          "sectionTop": 208,
+          "headingTop": 359,
+          "headerBottom": 80
+        },
+        {
+          "id": "contact",
+          "sectionTop": 208,
+          "headingTop": 377,
+          "headerBottom": 80
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 5,
+      "amenityRows": 3,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 691
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "viewport": 1024,
+      "documentClientWidth": 1009,
+      "documentScrollWidth": 1009,
+      "bodyScrollWidth": 1009,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 117,
+          "headingTop": 486,
+          "headerBottom": 80
+        },
+        {
+          "id": "intro",
+          "sectionTop": 208,
+          "headingTop": 422,
+          "headerBottom": 80
+        },
+        {
+          "id": "features",
+          "sectionTop": 208,
+          "headingTop": 370,
+          "headerBottom": 80
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 208,
+          "headingTop": 485,
+          "headerBottom": 80
+        },
+        {
+          "id": "reception",
+          "sectionTop": 208,
+          "headingTop": 442,
+          "headerBottom": 80
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 208,
+          "headingTop": 442,
+          "headerBottom": 80
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 208,
+          "headingTop": 368,
+          "headerBottom": 80
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 208,
+          "headingTop": 384,
+          "headerBottom": 80
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 208,
+          "headingTop": 485,
+          "headerBottom": 80
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 208,
+          "headingTop": 412,
+          "headerBottom": 80
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 208,
+          "headingTop": 382,
+          "headerBottom": 80
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 208,
+          "headingTop": 368,
+          "headerBottom": 80
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 208,
+          "headingTop": 368,
+          "headerBottom": 80
+        },
+        {
+          "id": "location",
+          "sectionTop": 208,
+          "headingTop": 467,
+          "headerBottom": 80
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 208,
+          "headingTop": 456,
+          "headerBottom": 80
+        },
+        {
+          "id": "team",
+          "sectionTop": 208,
+          "headingTop": 368,
+          "headerBottom": 80
+        },
+        {
+          "id": "contact",
+          "sectionTop": 208,
+          "headingTop": 442,
+          "headerBottom": 80
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 5,
+      "amenityRows": 3,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 921
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "viewport": 1280,
+      "documentClientWidth": 1265,
+      "documentScrollWidth": 1265,
+      "bodyScrollWidth": 1265,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 117,
+          "headingTop": 400,
+          "headerBottom": 80
+        },
+        {
+          "id": "intro",
+          "sectionTop": 208,
+          "headingTop": 502,
+          "headerBottom": 80
+        },
+        {
+          "id": "features",
+          "sectionTop": 208,
+          "headingTop": 396,
+          "headerBottom": 80
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 208,
+          "headingTop": 570,
+          "headerBottom": 80
+        },
+        {
+          "id": "reception",
+          "sectionTop": 208,
+          "headingTop": 509,
+          "headerBottom": 80
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 208,
+          "headingTop": 524,
+          "headerBottom": 80
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 208,
+          "headingTop": 396,
+          "headerBottom": 80
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 208,
+          "headingTop": 412,
+          "headerBottom": 80
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 208,
+          "headingTop": 569,
+          "headerBottom": 80
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 208,
+          "headingTop": 471,
+          "headerBottom": 80
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 208,
+          "headingTop": 435,
+          "headerBottom": 80
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 208,
+          "headingTop": 396,
+          "headerBottom": 80
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 208,
+          "headingTop": 396,
+          "headerBottom": 80
+        },
+        {
+          "id": "location",
+          "sectionTop": 208,
+          "headingTop": 559,
+          "headerBottom": 80
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 208,
+          "headingTop": 532,
+          "headerBottom": 80
+        },
+        {
+          "id": "team",
+          "sectionTop": 208,
+          "headingTop": 396,
+          "headerBottom": 80
+        },
+        {
+          "id": "contact",
+          "sectionTop": 208,
+          "headingTop": 525,
+          "headerBottom": 80
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 5,
+      "amenityRows": 3,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "viewport": 1440,
+      "documentClientWidth": 1425,
+      "documentScrollWidth": 1425,
+      "bodyScrollWidth": 1425,
+      "ids": [
+        "main-home",
+        "intro",
+        "features",
+        "arrival",
+        "reception",
+        "sanctuary",
+        "amenities",
+        "interiors",
+        "executive-lounge",
+        "floating-pool",
+        "rooftop-club",
+        "floor-plans",
+        "why-westlands",
+        "location",
+        "lifestyle",
+        "team",
+        "contact"
+      ],
+      "pageLinks": [
+        "#main-home",
+        "#intro",
+        "#features",
+        "#arrival",
+        "#reception",
+        "#sanctuary",
+        "#amenities",
+        "#interiors",
+        "#executive-lounge",
+        "#floating-pool",
+        "#rooftop-club",
+        "#floor-plans",
+        "#why-westlands",
+        "#location",
+        "#lifestyle",
+        "#team",
+        "#contact"
+      ],
+      "headings": [
+        "H1",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2",
+        "H2"
+      ],
+      "menuState": {
+        "tag": "BUTTON",
+        "name": "MENU +",
+        "ariaExpanded": "false",
+        "ariaDisabled": "true",
+        "focused": true,
+        "focusOutline": "solid"
+      },
+      "progressRailPresent": true,
+      "anchorChecks": [
+        {
+          "id": "main-home",
+          "sectionTop": 117,
+          "headingTop": 349,
+          "headerBottom": 80
+        },
+        {
+          "id": "intro",
+          "sectionTop": 208,
+          "headingTop": 532,
+          "headerBottom": 80
+        },
+        {
+          "id": "features",
+          "sectionTop": 208,
+          "headingTop": 414,
+          "headerBottom": 80
+        },
+        {
+          "id": "arrival",
+          "sectionTop": 208,
+          "headingTop": 575,
+          "headerBottom": 80
+        },
+        {
+          "id": "reception",
+          "sectionTop": 208,
+          "headingTop": 551,
+          "headerBottom": 80
+        },
+        {
+          "id": "sanctuary",
+          "sectionTop": 208,
+          "headingTop": 568,
+          "headerBottom": 80
+        },
+        {
+          "id": "amenities",
+          "sectionTop": 208,
+          "headingTop": 414,
+          "headerBottom": 80
+        },
+        {
+          "id": "interiors",
+          "sectionTop": 208,
+          "headingTop": 429,
+          "headerBottom": 80
+        },
+        {
+          "id": "executive-lounge",
+          "sectionTop": 208,
+          "headingTop": 576,
+          "headerBottom": 80
+        },
+        {
+          "id": "floating-pool",
+          "sectionTop": 208,
+          "headingTop": 526,
+          "headerBottom": 80
+        },
+        {
+          "id": "rooftop-club",
+          "sectionTop": 208,
+          "headingTop": 467,
+          "headerBottom": 80
+        },
+        {
+          "id": "floor-plans",
+          "sectionTop": 208,
+          "headingTop": 413,
+          "headerBottom": 80
+        },
+        {
+          "id": "why-westlands",
+          "sectionTop": 208,
+          "headingTop": 413,
+          "headerBottom": 80
+        },
+        {
+          "id": "location",
+          "sectionTop": 208,
+          "headingTop": 598,
+          "headerBottom": 80
+        },
+        {
+          "id": "lifestyle",
+          "sectionTop": 208,
+          "headingTop": 575,
+          "headerBottom": 80
+        },
+        {
+          "id": "team",
+          "sectionTop": 208,
+          "headingTop": 414,
+          "headerBottom": 80
+        },
+        {
+          "id": "contact",
+          "sectionTop": 208,
+          "headingTop": 568,
+          "headerBottom": 80
+        }
+      ],
+      "amenityCount": 15,
+      "amenityColumns": 5,
+      "amenityRows": 3,
+      "images": [
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fnight-mountain-lake.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Freflective-indoor-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fspa-lounge.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Frooftop-infinity-pool.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fgeneric-floor-plan-reference.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fhigh-rise-facade.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        },
+        {
+          "src": "/_next/image?url=%2Fmedia%2Fquartz-crystal.jpg&w=3840&q=75",
+          "loaded": true,
+          "naturalWidth": 1200
+        }
+      ]
+    }
+  ],
+  "browserErrors": [],
+  "status": "PASS",
+  "failures": []
+}

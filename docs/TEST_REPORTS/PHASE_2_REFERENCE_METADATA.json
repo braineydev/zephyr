@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-23T12:32:43.811Z",
+  "metadata": [
+    {
+      "file": "20261120-1229-16.2553657.mp4",
+      "label": "desktop-reference",
+      "duration": 58.966633,
+      "width": 1002,
+      "height": 1032
+    },
+    {
+      "file": "zephyr_mobile.mp4",
+      "label": "mobile-reference",
+      "duration": 60.386,
+      "width": 576,
+      "height": 1280
+    }
+  ]
+}

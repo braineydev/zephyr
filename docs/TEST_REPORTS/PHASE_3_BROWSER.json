@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-24T15:00:15.628Z",
+  "browser": "Google Chrome via Chrome DevTools Protocol",
+  "url": "http://127.0.0.1:3003",
+  "viewportWidths": [
+    360,
+    390,
+    414,
+    576,
+    768,
+    1024,
+    1280,
+    1440
+  ],
+  "responsive": [
+    {
+      "width": 360,
+      "clientWidth": 360,
+      "scrollWidth": 360,
+      "bodyScrollWidth": 360,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    },
+    {
+      "width": 390,
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "bodyScrollWidth": 390,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    },
+    {
+      "width": 414,
+      "clientWidth": 414,
+      "scrollWidth": 414,
+      "bodyScrollWidth": 414,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    },
+    {
+      "width": 576,
+      "clientWidth": 576,
+      "scrollWidth": 576,
+      "bodyScrollWidth": 576,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    },
+    {
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "bodyScrollWidth": 753,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    },
+    {
+      "width": 1024,
+      "clientWidth": 1009,
+      "scrollWidth": 1009,
+      "bodyScrollWidth": 1009,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    },
+    {
+      "width": 1280,
+      "clientWidth": 1265,
+      "scrollWidth": 1265,
+      "bodyScrollWidth": 1265,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    },
+    {
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "bodyScrollWidth": 1425,
+      "menuButton": "false",
+      "rail": "progressbar",
+      "sectionCount": 17,
+      "carouselCount": 2,
+      "noAutoplay": true
+    }
+  ],
+  "menuOpened": {
+    "expanded": "true",
+    "modal": "true",
+    "hidden": false,
+    "focus": "menu-close",
+    "bodyOverflow": "hidden",
+    "linkTargets": [
+      {
+        "href": "#main-home",
+        "exists": true
+      },
+      {
+        "href": "#sanctuary",
+        "exists": true
+      },
+      {
+        "href": "#amenities",
+        "exists": true
+      },
+      {
+        "href": "#interiors",
+        "exists": true
+      },
+      {
+        "href": "#executive-lounge",
+        "exists": true
+      },
+      {
+        "href": "#rooftop-club",
+        "exists": true
+      },
+      {
+        "href": "#floor-plans",
+        "exists": true
+      },
+      {
+        "href": "#location",
+        "exists": true
+      },
+      {
+        "href": "#team",
+        "exists": true
+      }
+    ]
+  },
+  "pointerClosed": {
+    "expanded": "false",
+    "hidden": true,
+    "returnedFocus": true,
+    "bodyOverflow": ""
+  },
+  "menuFocusWrap": {
+    "shiftTab": "09Team",
+    "tab": "Close ×"
+  },
+  "escapeClosed": {
+    "expanded": "false",
+    "hidden": true,
+    "returnedFocus": true,
+    "bodyOverflow": ""
+  },
+  "touchMenuClosed": {
+    "expanded": "false",
+    "hidden": true,
+    "returnedFocus": true,
+    "bodyOverflow": ""
+  },
+  "anchorNavigation": {
+    "hash": "#sanctuary",
+    "expanded": "false",
+    "targetExists": true,
+    "focusTarget": "sanctuary"
+  },
+  "progress": {
+    "atTop": 0,
+    "atBottom": 100
+  },
+  "carousel": {
+    "initial": {
+      "caption": "RECEPTION SETTING · ILLUSTRATIVE STOCK IMAGE 01 / 03",
+      "alt": "Temporary photograph of a modern hotel reception lobby",
+      "src": "/_next/image?url=%2Fmedia%2Fhotel-reception.jpg&w=3840&q=75",
+      "previousDisabled": true,
+      "nextDisabled": false
+    },
+    "afterArrowRight": {
+      "caption": "LOUNGE SETTING · ILLUSTRATIVE STOCK IMAGE 02 / 03",
+      "alt": "Temporary photograph of a modern lounge",
+      "src": "/_next/image?url=%2Fmedia%2Flounge-interior.jpg&w=3840&q=75",
+      "hiddenSlides": 2
+    },
+    "afterPointerNext": {
+      "caption": "LIVING ROOM · ILLUSTRATIVE STOCK IMAGE 03 / 03",
+      "alt": "Temporary photograph of a residential living room",
+      "src": "/_next/image?url=%2Fmedia%2Fliving-room.jpg&w=3840&q=75",
+      "previousDisabled": false,
+      "nextDisabled": true
+    },
+    "afterWait": "LIVING ROOM · ILLUSTRATIVE STOCK IMAGE 03 / 03",
+    "beforeTouchSwipe": "RECEPTION SETTING · ILLUSTRATIVE STOCK IMAGE 01 / 03",
+    "afterTouchSwipe": "LOUNGE SETTING · ILLUSTRATIVE STOCK IMAGE 02 / 03"
+  },
+  "reducedMotion": {
+    "preference": true,
+    "scrollBehavior": "auto"
+  },
+  "stateFallbacks": {
+    "interiorsActive": "1 Bedroom · sample image",
+    "interiorsUnavailableDisabled": "2 Bedrooms · unavailable",
+    "floorButtonsDisabled": true,
+    "floorSelectDisabled": true
+  },
+  "browserErrors": [],
+  "failedResponses": [],
+  "screenshots": [
+    "docs/SCREENSHOTS/phase3-menu-desktop.png",
+    "docs/SCREENSHOTS/phase3-menu-mobile.png"
+  ],
+  "status": "PASS",
+  "failures": []
+}
